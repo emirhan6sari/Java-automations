@@ -1,0 +1,11 @@
+1000+Futbol
+1010+Basketbol
+1020+Voleybol
+1030+Tenis
+1040+Masa Tenisi
+1050+Judo
+1060+Karate
+1070+Boks
+1080+Fitnes
+1090+Zumba
+1100+Yüzme

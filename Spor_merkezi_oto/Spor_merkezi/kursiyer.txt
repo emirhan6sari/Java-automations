@@ -1,0 +1,16 @@
+*5050+Ahmet Ada+23
+%1000+Futbol
+%1040+Masa Tenisi
+*6085+Selda Naz Şahin+35
+%1020+Voleybol
+*5090+Deniz Arslan+30
+%1000+Futbol
+%1060+Karate
+*6174+Tarık Kılıç+42
+%1010+Basketbol
+%1030+Tenis
+%1050+Judo
+*7075+Ayşe Nur Kaya Yaman+20
+%1070+Boks
+%1080+Fitnes
+%1100+Yüzme
